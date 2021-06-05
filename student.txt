@@ -1,0 +1,5 @@
+Kayla, lovely, 26/ 07/ 1999, 3739, 3.0, 2019, 140, bachelor
+Annie, loz, 17/ 02 / 2000, 7384, 4.0, 2017, 76, bachelor
+Selma, bla, 08/ 01 / 1998, 9792, 2.0, 2019, 40, Master
+Pita, lou, 11 / 12/ 1985, 6572, 3.6, 2016, 30, Ph.D
+Georgia, liu, 06/ 06 / 2003, 6565, 3.9, 2020, 80, bachelor
